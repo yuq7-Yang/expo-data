@@ -1,0 +1,6 @@
+interface:
+  display_name: "Expo Data Governance"
+  short_description: "Build traceable, privacy-safe expo knowledge data"
+  default_prompt: "Use $expo-data-governance to design and validate this expo data release."
+policy:
+  allow_implicit_invocation: true
